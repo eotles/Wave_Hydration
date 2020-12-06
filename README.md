@@ -1,3 +1,5 @@
-# Wave_Hydration
+# Wave: Hydration Check
 
-A small static website for the Wave iOS project.
+Wave helps you stay healthy & hydrated. Use your Apple Watch to assess your hydration status.
+
+This is a static website for the Wave iOS project.
