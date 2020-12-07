@@ -9,7 +9,7 @@ Using Wave your watch will measure the difference between your resting (sitting/
 [![Wave Intro](Wave_Intro_Thumbnail.png)](https://youtu.be/lZIYXQqtuIQ "Wave Intro - Click to Watch!")
 
 ## Testflight Beta
-Once approved for beta testing by Apple, a public download link will be available here.
+[Link to TestFlight Beta](https://testflight.apple.com/join/mCKVOM2u)
 
 ## Privacy
 Privacy policy in a nutshell: we want your data to stay as safe as possible, thus it stays on your device, and you get to pick if/when it leaves the app.
