@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Wave Hydration
 description: Use your Apple Watch to stay healthy & hydrated.
+
+github:
+  is_project_page: false
