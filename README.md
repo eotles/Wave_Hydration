@@ -12,7 +12,7 @@ Wave helps you stay healthy & hydrated. Use your Apple Watch to assess your hydr
 
 ## Privacy
 Privacy policy in a nutshell: we want your data to stay as safe as possible, thus it stays on your device, and you get to pick if/when it leaves the app.
-[Privacy_Policy.md]
+[Privacy Policy](Privacy_Policy.md)
 
 
 ## Support
